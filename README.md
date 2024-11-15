@@ -1,5 +1,17 @@
 # ci authzero-utils
 
+## :warning: This repository will soon be archived! :warning:
+
+We've made some improvements to
+[auth0-deploy](https://github.com/mozilla-iam/auth0-deploy), notably:
+
+* using Terraform to deploy to Auth0;
+* running the tests within the repo.
+
+As such, this repository is no longer needed and will be archived Soon :tm:.
+
+---
+
 Various scripts utilizing authzerolib to do things such as sync'ing authzero login page, rules, clients, settings, etc.
 Useful to run in your CI!
 
